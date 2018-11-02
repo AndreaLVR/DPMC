@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-# Cifrario DPMC (Dynamic Polynomial Matricial Cipher)
+# Cifrario DPMC (Dynamic Polynomial Matrix Cipher)
 # Author: Andrea Olivari
 import sys
 import codecs
